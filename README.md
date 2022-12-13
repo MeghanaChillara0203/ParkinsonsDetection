@@ -1,0 +1,2 @@
+# ParkinsonsDetection
+Multivarite Logistic Regression
