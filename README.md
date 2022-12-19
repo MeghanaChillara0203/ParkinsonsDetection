@@ -83,5 +83,6 @@ https://briangrant.org/parkinsons-overview/?gclid=CjwKCAiA7IGcBhA8EiwAFfUDsXipHd
 https://www.indeed.com/career-advice/career-development/multivariate-logistic-regression
 https://www.sciencedirect.com/topics/medicine-and-dentistry/multivariate-logistic-regression-analysis
 https://realpython.com/logistic-regression-python/
+https://www.datacamp.com/tutorial/understanding-logistic-regression-python
 
 
