@@ -48,7 +48,7 @@ AUC score for the case is 0.80. AUC score 1 represents a perfect classifier, and
 
 ## Conclusion
 
-The goal of this project was to establish data-driven PD progression models, for individual disease identification. We have built a logistic regression model to predict the existence of disease in patients. We used sklearn library to prepare the dataset and build the model. 
+The goal of this project was to establish data-driven PD progression models, for individual disease identification. I have built a logistic regression model to predict the existence of disease in patients. We used sklearn library to prepare the dataset and build the model. 
 
 ## Appendix
 
